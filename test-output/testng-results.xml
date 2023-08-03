@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-02T17:57:51 BDT" name="WCAutomation" finished-at="2023-08-02T17:58:19 BDT" duration-ms="28206">
+    <groups>
+    </groups>
+    <test started-at="2023-08-02T17:57:51 BDT" name="WeightScale" finished-at="2023-08-02T17:58:19 BDT" duration-ms="28206">
+      <class name="ccdl.weightScale.tests.AlloFormTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:ccdl.weightScale.tests.AlloFormTest@185a6e9]" started-at="2023-08-02T17:58:09 BDT" name="openUrl" finished-at="2023-08-02T17:58:09 BDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="createAllocationTest()[pri:0, instance:ccdl.weightScale.tests.AlloFormTest@185a6e9]" started-at="2023-08-02T17:58:09 BDT" name="createAllocationTest" finished-at="2023-08-02T17:58:19 BDT" duration-ms="10432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAllocationTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ccdl.weightScale.tests.AlloFormTest@185a6e9]" started-at="2023-08-02T17:58:19 BDT" name="afterClass" finished-at="2023-08-02T17:58:19 BDT" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- ccdl.weightScale.tests.AlloFormTest -->
+      <class name="ccdl.weightScale.tests.AllocationNTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:ccdl.weightScale.tests.AllocationNTest@1e800aaa]" started-at="2023-08-02T17:58:05 BDT" name="openUrl" finished-at="2023-08-02T17:58:05 BDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="createAllocationTest()[pri:0, instance:ccdl.weightScale.tests.AllocationNTest@1e800aaa]" started-at="2023-08-02T17:58:05 BDT" name="createAllocationTest" finished-at="2023-08-02T17:58:08 BDT" duration-ms="3532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAllocationTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ccdl.weightScale.tests.AllocationNTest@1e800aaa]" started-at="2023-08-02T17:58:08 BDT" name="afterClass" finished-at="2023-08-02T17:58:09 BDT" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- ccdl.weightScale.tests.AllocationNTest -->
+      <class name="ccdl.weightScale.tests.LoginTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:ccdl.weightScale.tests.LoginTest@662ac478]" started-at="2023-08-02T17:57:51 BDT" name="start" finished-at="2023-08-02T17:57:53 BDT" duration-ms="2189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:ccdl.weightScale.tests.LoginTest@662ac478]" started-at="2023-08-02T17:57:53 BDT" name="openUrl" finished-at="2023-08-02T17:57:54 BDT" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="loginTest()[pri:0, instance:ccdl.weightScale.tests.LoginTest@662ac478]" started-at="2023-08-02T17:57:54 BDT" name="loginTest" finished-at="2023-08-02T17:58:05 BDT" duration-ms="10630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ccdl.weightScale.tests.LoginTest@662ac478]" started-at="2023-08-02T17:58:05 BDT" name="afterClass" finished-at="2023-08-02T17:58:05 BDT" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="close()[pri:0, instance:ccdl.weightScale.tests.LoginTest@662ac478]" started-at="2023-08-02T17:58:19 BDT" name="close" finished-at="2023-08-02T17:58:19 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- ccdl.weightScale.tests.LoginTest -->
+    </test> <!-- WeightScale -->
+  </suite> <!-- WCAutomation -->
+</testng-results>
